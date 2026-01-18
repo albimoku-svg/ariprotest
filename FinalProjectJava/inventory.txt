@@ -1,0 +1,5 @@
+0,Albeni,Cokollat,20.0,37,eti
+0,CocaCola,Drink,80.0,248,COLA
+0,Salce,Ushqim,30.0,27,insifa
+0,Omar Alsafarti,Human,0.0,1,Xhemal
+0,Latif Ertekin,Human,-1.0,3,Mustafa
